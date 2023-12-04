@@ -1,0 +1,2 @@
+C:\Users\osan51030\Desktop\c#\ConsoleApp1\bin\Release\net7.0\win-x64\publish\ConsoleApp1.pdb
+C:\Users\osan51030\Desktop\c#\ConsoleApp1\bin\Release\net7.0\win-x64\publish\ConsoleApp1.exe
